@@ -13,7 +13,7 @@ Address of the [Aparat](https://www.aparat.com/Sobhan.SRZA)
 
 [YouTube](https://b2n.ir/srza.-.gamer) address
 
-[Discord](https://discord.gg/bNpqrdXNNn)address
+[Discord](https://dsc.gg/srza-gamer)address
 
 
 ## If you are very interested in movies and cartoons, then do not forget my second channel 👇🏼❤🌹📺
@@ -27,7 +27,7 @@ Address of the [Aparat](https://www.aparat.com/Sobhan.SRZA)
 > AD is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Installation
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sobhan-SRZA/Reaction-Music-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sobhan-SRZA/Chocolate-Boy)
 
 
 1. How to obtain a Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
@@ -53,7 +53,7 @@ After Completing all the required installments and the changes head over to Upti
 **For PC users using VS Code** -
 
 ```
-git clone https://github.com/Sobhan-SRZA/Reaction-Music-Bot.git
+git clone https://github.com/Sobhan-SRZA/Chocolate-Boy.git
 
 npm install
 ```
@@ -64,7 +64,7 @@ After installation finishes you can use `node index.js` to start the bot.
 
 **Tap on this --**
 
-[![Use on Repl.it](https://repl.it/badge/github/Sobhan-SRZA/Reaction-Music-Bot/)](https://repl.it/github/Sobhan-SRZA/Reaction-Music-Bot/)
+[![Use on Repl.it](https://repl.it/badge/github/Sobhan-SRZA/Chocolate-Boy/)](https://repl.it/github/Sobhan-SRZA/Chocolate-Boy/)
 
 ```
 Type (npm i) in console
@@ -159,7 +159,6 @@ debug, see number of voice connections.
 - All Commands Categories
 
 ```
-
     Help 🆘
     Infos 📊
     Member 👻
@@ -180,7 +179,7 @@ debug, see number of voice connections.
 * Controls your Discord Bot via Reactions
 ![reactions](https://cdn.discordapp.com/attachments/906688516140961802/938066570691887166/Music-CMD_-_Google_Chrome_2_1_2022_5_10_50_PM.png)
 
-Find all the functions available on the official code [right here](https://github.com/Sobhan-SRZA/Moderation-Bot).
+Find all the functions available on the official code [right here](https://github.com/Sobhan-SRZA/Chocolate-Boy).
 
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
 
