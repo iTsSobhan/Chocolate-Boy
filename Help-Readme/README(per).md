@@ -1,6 +1,6 @@
-[![Deploy on Herokucd](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sobhan-SRZA/Reaction-Music-Bot/)
+[![Deploy on Herokucd](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sobhan-SRZA/Chocolate-Boy/)
 
-[![Use on Replit](https://repl.it/badge/github/Sobhan-SRZA/Reaction-Music-Bot/)](https://repl.it/github/Sobhan-SRZA/Reaction-Music-Bot/)
+[![Use on Replit](https://repl.it/badge/github/Sobhan-SRZA/Chocolate-Boy/)](https://repl.it/github/Sobhan-SRZA/Chocolate-Boy/)
 
 
 ## آدرس های من در فضای مجازی👇🏼🙃
@@ -188,6 +188,10 @@ Find all the functions available on the official code [right here](https://githu
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Moderation-Bot&theme=dracula)](https://github.com/Sobhan-SRZA/Moderation-Bot/)
+<p align="center">
+  <a href="https://github.com/Sobhan-SRZA/Chocolate-Boy/" target="_blank"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Chocolate-Boy&theme=react" alt="Readme-Card.png">
+  </a>
+</p>
 
 
