@@ -1,5 +1,5 @@
-https://github.com/Sobhan-SRZA/Moderation-Bot/Help-Readme/README(en).md
-https://github.com/Sobhan-SRZA/Moderation-Bot/Help-Readme/README(per).md
+https://github.com/Sobhan-SRZA/Chocolate-Bot/Help-Readme/README(en).md
+https://github.com/Sobhan-SRZA/Chocolate-Bot/Help-Readme/README(per).md
 
 ## My addresses in cyberspace 👇🏼🙃📡
 [Twich](https://www.twitch.tv/sobhan_srza) address
@@ -108,6 +108,10 @@ Find all the functions available on the official code [right here](https://githu
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Moderation-Bot&theme=dracula)](https://github.com/Sobhan-SRZA/Moderation-Bot/)
+<p align="center">
+  <a href="https://github.com/Sobhan-SRZA/Moderation-Bot/" target="_blank"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Chocolate-Bot&theme=react" alt="Readme-Card.png">
+  </a>
+</p>
 
 
