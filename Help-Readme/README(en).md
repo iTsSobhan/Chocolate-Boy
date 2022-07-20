@@ -13,7 +13,7 @@ Address of the [Aparat](https://www.aparat.com/Sobhan.SRZA)
 
 [YouTube](https://b2n.ir/srza.-.gamer) address
 
-[Discord](https://dsc.gg/srza-gamer)address
+[Discord](https://dsc.gg/srza._.gamer)address
 
 
 ## If you are very interested in movies and cartoons, then do not forget my second channel 👇🏼❤🌹📺
