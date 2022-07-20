@@ -156,7 +156,7 @@ ping, see the bot latency.
 help, see the list of available commands.
 debug, see number of voice connections.
 ```
-- 🎫 Ticket commands
+- 🎫 Ticket commands\n
     Help 🆘
     Infos 📊
     Member 👻
@@ -183,6 +183,8 @@ Find all the functions available on the official code [right here](https://githu
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
 
 Main Credits go to [@Sobhan-SRZA](https://github.com/Sobhan-SRZA/) for making DJ BOY successfully the best music bot...😍
-Get evobot repo here - 
-https://github.com/Sobhan-SRZA/Moderation-Bot/
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Moderation-Bot&theme=dracula)](https://github.com/Sobhan-SRZA/Moderation-Bot/)
+<p align="center">
+  <a href="https://github.com/Sobhan-SRZA/Chocolate-Boy/" target="_blank"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Chocolate-Boy&theme=react" alt="Readme-Card.png">
+  </a>
+</p>
