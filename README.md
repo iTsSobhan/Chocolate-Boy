@@ -1,5 +1,5 @@
-https://github.com/Sobhan-SRZA/Chocolate-Boy/Help-Readme/README(en).md
-https://github.com/Sobhan-SRZA/Chocolate-Boy/Help-Readme/README(per).md
+[English Help](https://github.com/Sobhan-SRZA/Chocolate-Boy/blob/main/Help-Readme/README(en).md)
+[Persian Help](https://github.com/Sobhan-SRZA/Chocolate-Boy/blob/main/Help-Readme/README(per).md)
 
 ## My addresses in cyberspace 👇🏼🙃📡
 [Twich](https://www.twitch.tv/sobhan_srza) address
