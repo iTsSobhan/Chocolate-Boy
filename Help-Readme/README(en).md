@@ -156,7 +156,10 @@ ping, see the bot latency.
 help, see the list of available commands.
 debug, see number of voice connections.
 ```
-- 🎫 Ticket commands\n
+- All Commands Categories
+
+```
+
     Help 🆘
     Infos 📊
     Member 👻
@@ -170,7 +173,6 @@ debug, see number of voice connections.
     VIP 💎 
     Owner 👑 
 
-```
 ```
 
 - 🏓 Utilities (to change the code)
