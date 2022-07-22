@@ -14,6 +14,7 @@ module.exports = {
   if (message.channel.nsfw === true) {
     superagent.get('https://nekobot.xyz/api/image')
     .query({ type: 'pussy'})
+    .auth("015445535454455354D6")
     .end((err, response) => {
       message.channel.send(new Discord.MessageAttachment(encodeURI(response.body.message), "sizar-team|pussy.png"));
     });

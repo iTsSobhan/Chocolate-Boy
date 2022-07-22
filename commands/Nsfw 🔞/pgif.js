@@ -14,6 +14,7 @@ module.exports = {
   if (message.channel.nsfw === true) {
     superagent.get('https://nekobot.xyz/api/image')
     .query({ type: 'pgif'})
+    .auth("015445535454455354D6")
     .end((err, response) => {
       let embed = new Discord.MessageEmbed()
       .setTitle("🍑 | Here’s your porn gifs")

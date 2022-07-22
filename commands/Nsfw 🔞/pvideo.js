@@ -20,7 +20,7 @@ module.exports = {
     let pornEmbed = new Discord.MessageEmbed()
        .setTitle(video.title)
        .setURL(video.url)
-       .setColor(client.colors.none)
+       .setColor("RANDOM")
        .setImage(video.thumb)
        .setFooter(`Length: ${video.duration} | Requested by ${message.author.tag}`,message.author.displayAvatarURL({ format: "png" }))
     await loadingMessage.edit(pornEmbed);

@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
-const nekos = require('nekos.life');
-const neko = new nekos();
+const client = require('nekos.life');
+const neko = new client();
 module.exports = {
     name: 'acumsluts',
     aliases: ['acumsluts', 'anime-cumsluts'],
